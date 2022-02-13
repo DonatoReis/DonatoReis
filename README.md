@@ -1,4 +1,4 @@
-### Hi there 👋
+### Knowledge is free.
 
 <div>
   <a href="https://github.com/DonatoReis/DonatoReis">
