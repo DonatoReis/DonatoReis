@@ -14,7 +14,7 @@
   
 <div>
   <p align="center" dir="auto"
-   <a href="https://www.instagram.com/caiquedbreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=39ff14&logoColor=white&color=black" target="_blank"></a>
+   <a href="https://www.instagram.com/creisbarreto/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=39ff14&logoColor=white&color=black" target="_blank"></a>
    <a href="https://discord.gg/Z2C2CyVZFU" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=39ff14&logoColor=white&color=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caique-barreto-7809b2217/" target="_blank"><img src="https://img.shields.io/badge/-LinkdIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=39ff14&logoColor=white&color=black" target="_blank"></a>
   <a href="mailto:caique.hbarreto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=39ff14&logoColor=white&color=black" target="_blank"></a>
